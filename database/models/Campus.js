@@ -10,7 +10,7 @@ const Campus = db.define("campus", {
 
   imageUrl: {
     type: Sequelize.STRING,
-    defaultValue: "Temp Value"
+    defaultValue: "https://previews.123rf.com/images/mikegreen/mikegreen1609/mikegreen160900089/67292768-school-building-icon-silhouette-vector-illustration.jpg"
   },
 
   address: {
