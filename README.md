@@ -1,9 +1,6 @@
-# starter-server
+# Server
 
-Starter code for the backend of our final CRUD app
+GHuang27 - Geoffrey Huang
 
-To start:
-
-`npm run dev`
-
-Download Postgres and Postman. 
+Link to client
+https://github.com/GHuang27/client
